@@ -1,0 +1,11 @@
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/bin/Debug/netcoreapp2.1/SalaryDateofCustomers.deps.json
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/bin/Debug/netcoreapp2.1/SalaryDateofCustomers.runtimeconfig.json
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/bin/Debug/netcoreapp2.1/SalaryDateofCustomers.runtimeconfig.dev.json
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/bin/Debug/netcoreapp2.1/SalaryDateofCustomers.dll
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/bin/Debug/netcoreapp2.1/SalaryDateofCustomers.pdb
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/obj/Debug/netcoreapp2.1/SalaryDateofCustomers.csprojAssemblyReference.cache
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/obj/Debug/netcoreapp2.1/SalaryDateofCustomers.csproj.CoreCompileInputs.cache
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/obj/Debug/netcoreapp2.1/SalaryDateofCustomers.AssemblyInfoInputs.cache
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/obj/Debug/netcoreapp2.1/SalaryDateofCustomers.AssemblyInfo.cs
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/obj/Debug/netcoreapp2.1/SalaryDateofCustomers.dll
+/Users/canacar/ProjectRepositories/SalaryDateofCustomers/SalaryDateofCustomers/obj/Debug/netcoreapp2.1/SalaryDateofCustomers.pdb
