@@ -17,8 +17,7 @@ namespace PaymentDateCalculator.Api.Controllers
         public PaymentDateCalculatorController(ISalaryDateCalculation calculator) { Calculator = calculator; }
 
 
-      
-        [HttpGet("/calculate/{frequencey:int}/{day:int}/{week:int}/{currentDate}")]
+        [HttpGet("calculate/{frequencey:int}/{day:int}/{week:int}/{currentDate}")]
         public IActionResult CalculateNextSalaryDate(SalaryFrequency frequencey, int day, int week, DateTime currentDate)
         {
             Calculator.SetCurrentDateTime(currentDate);
@@ -31,6 +30,23 @@ namespace PaymentDateCalculator.Api.Controllers
                           Frequency          = frequencey,
                           NextSalaryDateTime = Result,
                           Week               = week
+                      });
+        }
+
+        [HttpPost("CalculateNextSalaryDate")]
+        public IActionResult CalculateNextSalaryDate(DateTime currentDate, [FromBody] SalaryDateCalculationDto dateCalculationDto)
+        {
+            Calculator.SetCurrentDateTime(currentDate);
+            
+            var Result = Calculator.CalculateNextSalaryDate(dateCalculationDto);
+
+            return Ok(new SalaryDateTestModel
+                      {
+                          CurrentDateTime    = currentDate,
+                          Day                = dateCalculationDto.Day,
+                          Frequency          = dateCalculationDto.PaymentFrequency,
+                          NextSalaryDateTime = Result,
+                          Week               = dateCalculationDto.Week
                       });
         }
     }
