@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33130d72-5aa9-4cbf-a6ab-f417b5531080" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PaymentDateCalculatorController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Controllers/PaymentDateCalculatorController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+              <folding>
+                <marker date="1529317754623" expanded="true" signature="6:154" ph="..." />
+                <marker date="1529317754623" expanded="true" signature="203:1368" ph="{...}" />
+                <marker date="1529317754623" expanded="true" signature="354:1366" ph="{...}" />
+                <marker date="1529317754623" expanded="true" signature="762:1360" ph="{...}" />
+                <marker date="1529317754623" expanded="true" signature="1045:1348" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SalaryFindofEmployee/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="158" column="78" lean-forward="true" selection-start-line="158" selection-start-column="78" selection-end-line="158" selection-end-column="78" />
+              <folding>
+                <marker date="1529318034575" expanded="false" signature="6:175" ph="..." />
+                <marker date="1529318034575" expanded="true" signature="207:8787" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="227:8785" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="299:6868" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="378:6857" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="450:811" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="884:1246" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="1319:1682" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="1755:2119" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="2191:2556" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="2628:2994" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="3066:3429" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="3501:3866" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="3938:4301" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="4373:4723" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="4795:5145" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="5217:5567" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="5639:5990" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="6062:6413" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="6485:6836" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="6910:8779" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="7113:8769" ph="{...}" />
+                <marker date="1529318034575" expanded="true" signature="7468:7894" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalaryDateCalculation.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Services/SalaryDateCalculation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-128">
+              <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+              <folding>
+                <marker date="1529310381454" expanded="false" signature="6:164" ph="..." />
+                <marker date="1529310381454" expanded="true" signature="206:2089" ph="{...}" />
+                <marker date="1529310381454" expanded="true" signature="272:1950" ph="{...}" />
+                <marker date="1529310381454" expanded="true" signature="326:422" ph="///  ... " />
+                <marker date="1529310381454" expanded="true" signature="524:716" ph="///  ... " />
+                <marker date="1529310381454" expanded="true" signature="795:1944" ph="{...}" />
+                <marker date="1529310381454" expanded="true" signature="878:1906" ph="{...}" />
+                <marker date="1529310381454" expanded="true" signature="2020:2087" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalaryFindOfEmployeeTest.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.UnitTest/SalaryFindOfEmployeeTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="192" column="47" selection-start-line="192" selection-start-column="47" selection-end-line="192" selection-end-column="47" />
+              <folding>
+                <marker date="1529304900633" expanded="false" signature="6:169" ph="..." />
+                <marker date="1529304900633" expanded="true" signature="211:10022" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="266:9046" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="323:8898" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="397:905" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="481:878" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="970:1479" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="1054:1452" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="1544:2054" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="1628:2027" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="2119:2630" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="2203:2603" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="2695:3207" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="2779:3180" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="3272:3785" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="3356:3758" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="3850:4360" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="3934:4333" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="4425:4937" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="4509:4910" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="5002:5512" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="5086:5485" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="5577:6074" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="5661:6047" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="6139:6636" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="6223:6609" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="6701:7198" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="6785:7171" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="7263:7761" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="7347:7734" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="7826:8324" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="7910:8297" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="8389:8887" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="8473:8860" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="9083:10020" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="9154:10014" ph="{...}" />
+                <marker date="1529304900633" expanded="true" signature="9489:9899" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding>
+                <marker date="1529317754650" expanded="true" signature="6:344" ph="..." />
+                <marker date="1529317754650" expanded="true" signature="381:3908" ph="{...}" />
+                <marker date="1529317754650" expanded="true" signature="408:3906" ph="{...}" />
+                <marker date="1529317754650" expanded="true" signature="625:3357" ph="{...}" />
+                <marker date="1529317754650" expanded="true" signature="899:1446" ph="{...}" />
+                <marker date="1529317754650" expanded="true" signature="1547:3345" ph="{...}" />
+                <marker date="1529317754650" expanded="true" signature="1710:3151" ph="{...}" />
+                <marker date="1529317754650" expanded="true" signature="2282:2679" ph="{...}" />
+                <marker date="1529317754650" expanded="true" signature="2837:3091" ph="{...}" />
+                <marker date="1529317754650" expanded="true" signature="3545:3900" ph="{...}" />
+                <marker date="1529317754650" expanded="true" signature="3655:3861" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateTimeModelBinder.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Core/DateTimeModelBinder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <marker date="1529317219257" expanded="true" signature="6:116" ph="..." />
+                <marker date="1529317219257" expanded="true" signature="158:1953" ph="{...}" />
+                <marker date="1529317219257" expanded="true" signature="212:1413" ph="{...}" />
+                <marker date="1529317219257" expanded="true" signature="289:1407" ph="{...}" />
+                <marker date="1529317219257" expanded="true" signature="1076:1287" ph="{...}" />
+                <marker date="1529317219257" expanded="true" signature="1481:1951" ph="{...}" />
+                <marker date="1529317219257" expanded="true" signature="1561:1945" ph="{...}" />
+                <marker date="1529317219257" expanded="true" signature="1604:1698" ph="{...}" />
+                <marker date="1529317219257" expanded="true" signature="1831:1909" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalaryDate.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Models/SalaryDate.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <marker date="1529317884703" expanded="true" signature="6:108" ph="..." />
+                <marker date="1529317884703" expanded="true" signature="148:921" ph="{...}" />
+                <marker date="1529317884703" expanded="true" signature="178:431" ph="{...}" />
+                <marker date="1529317884703" expanded="true" signature="469:919" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalaryFrequencyConvert.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Formats/SalaryFrequencyConvert.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="39" />
+              <folding>
+                <marker date="1529315227258" expanded="true" signature="6:71" ph="..." />
+                <marker date="1529315227258" expanded="true" signature="112:1678" ph="{...}" />
+                <marker date="1529315227258" expanded="true" signature="170:1676" ph="{...}" />
+                <marker date="1529315227258" expanded="true" signature="275:1276" ph="{...}" />
+                <marker date="1529315227258" expanded="true" signature="382:1266" ph="{...}" />
+                <marker date="1529315227258" expanded="true" signature="1402:1571" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalaryDateTimeConvert.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Formats/SalaryDateTimeConvert.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <folding>
+                <marker date="1529314597953" expanded="true" signature="74:259" ph="{...}" />
+                <marker date="1529314597953" expanded="true" signature="136:257" ph="{...}" />
+                <marker date="1529314597953" expanded="true" signature="194:251" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>of</find>
+      <find>FindNextSalary</find>
+      <find>CalculationCollection.AddData(</find>
+      <find>new DateTime</find>
+      <find>}};</find>
+      <find>)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Of</replace>
+      <replace>AddData</replace>
+      <replace>yield return new object[] {new SalaryDateTestModel</replace>
+      <replace>yield return new object[] {new SalaryDateTestModel{</replace>
+      <replace>}};</replace>
+      <replace>{Frequency = SalaryFrequency.</replace>
+      <replace>CurrentDateTime =new DateTime</replace>
+      <replace>,NextSalaryDateTime = new DateTime() }};</replace>
+      <replace>).Date</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Core/DateTimeModelBinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalaryFindofEmployee/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalaryDateofCustomers/Formats/SalaryFrequencyConvert.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalaryDateofCustomers/Formats/SalaryDateTimeConvert.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalaryDateofCustomers/Interfaces/IPaymentDateCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalaryDateofCustomers/Extensions/DateTimeExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalaryDateofCustomers/Services/SalaryDateCalculation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalaryDateofCustomers/Models/SalaryDateCalculationDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalaryDateofCustomers/Models/SalaryDate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Controllers/PaymentDateCalculatorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PaymentDateCalculator.UnitTest/SalaryFindOfEmployeeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Controllers/ValuesController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/HashHolidays.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/SalaryDateCalculation.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/SalaryDateCalculationDto.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/SalaryFrequency.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Program.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/IPaymentDateCalculator.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Enums/SalaryFrequency.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Models/SalaryDateCalculationDto.cs" />
+        <option value="$PROJECT_DIR$/PaymentDateCalculator.UnitTest/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Services/SalaryDate.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Interfaces/IPaymentDateCalculator.cs" />
+        <option value="$PROJECT_DIR$/PaymentDateCalculator.UnitTest/SalaryFindOfEmployee.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Extensions/DateTimeExtensions.cs" />
+        <option value="$PROJECT_DIR$/PaymentDateCalculator.UnitTest/SalaryFindOfEmployeeTest.cs" />
+        <option value="$PROJECT_DIR$/PaymentDateCalculator.Swashbuckle.Core/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Services/SalaryDateCalculation.cs" />
+        <option value="$PROJECT_DIR$/PaymentDateCalculator.Api/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Formats/SalaryDateTimeConvert.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Formats/SalaryFrequencyConvert.cs" />
+        <option value="$PROJECT_DIR$/PaymentDateCalculator.Api/Constraints/SalaryDateConstraint.cs" />
+        <option value="$PROJECT_DIR$/PaymentDateCalculator.Api/Core/DateTimeModelBinder.cs" />
+        <option value="$PROJECT_DIR$/PaymentDateCalculator.Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/PaymentDateCalculator.Api/Controllers/PaymentDateCalculatorController.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Models/SalaryDate.cs" />
+        <option value="$PROJECT_DIR$/SalaryDateofCustomers/Services/CalculationCollection.cs" />
+        <option value="$PROJECT_DIR$/SalaryFindofEmployee/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="822" />
+    <option name="y" value="79" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SalaryDateofCustomers (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SalaryDateofCustomers (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PaymentDateCalculator" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SalaryDateofCustomers (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PaymentDateCalculator" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SalaryDateofCustomers (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PaymentDateCalculator.Api" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SalaryDateofCustomers (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PaymentDateCalculator.Api" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Core" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SalaryDateofCustomers (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PaymentDateCalculator.UnitTest" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SalaryDateofCustomers (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SalaryFindofEmployee" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pdc-b2070ea1f6f8832ee26951ccd64dbd631ee663b2/pdc-b2070ea1f6f8832ee26951ccd64dbd631ee663b2/gkTech.sln" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.PaymentDateCalculator.Api">
+    <configuration name="PaymentDateCalculator.Api" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PaymentDateCalculator.Api/bin/Debug/netcoreapp2.1/PaymentDateCalculator.Api.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PaymentDateCalculator.Api" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PaymentDateCalculator.Api/PaymentDateCalculator.Api.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+    </configuration>
+    <configuration name="SalaryFindofEmployee" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SalaryFindofEmployee/bin/Debug/netcoreapp2.1/SalaryFindofEmployee.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SalaryFindofEmployee" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SalaryFindofEmployee/SalaryFindofEmployee.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.SalaryFindofEmployee" />
+      <item itemvalue=".NET Project.PaymentDateCalculator.Api" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33130d72-5aa9-4cbf-a6ab-f417b5531080" name="Default" comment="" />
+      <created>1528382750972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528382750972</updated>
+      <workItem from="1528382752493" duration="4545000" />
+      <workItem from="1528562724243" duration="3233000" />
+      <workItem from="1528657166520" duration="3248000" />
+      <workItem from="1528807212243" duration="1143000" />
+      <workItem from="1528874526343" duration="1380000" />
+      <workItem from="1528876353422" duration="12019000" />
+      <workItem from="1528951790963" duration="2538000" />
+      <workItem from="1528954353734" duration="6680000" />
+      <workItem from="1529300973859" duration="4559000" />
+      <workItem from="1529309584306" duration="8358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47703000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005325" side_tool="true" weight="0.32777777" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.32963374" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.32741398" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32852387" />
+      <window_info anchor="bottom" id="Change Signature" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889135" visible="true" weight="0.22736955" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32963374" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.50110865" side_tool="true" weight="0.17039403" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.44617093" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.33724654" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PaymentDateCalculator.UnitTest/SalaryFindOfEmployeeTest.cs</url>
+          <line>204</line>
+          <properties documentPath="$PROJECT_DIR$/PaymentDateCalculator.UnitTest/SalaryFindOfEmployeeTest.cs" initialLine="224">
+            <startOffsets>
+              <startOffset value="9973" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="10004" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PaymentDateCalculator.Api/Controllers/PaymentDateCalculatorController.cs</url>
+          <line>16</line>
+          <properties documentPath="$PROJECT_DIR$/PaymentDateCalculator.Api/Controllers/PaymentDateCalculatorController.cs" initialLine="17">
+            <startOffsets>
+              <startOffset value="521" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="545" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PaymentDateCalculator.Api/Constraints/SalaryDateConstraint.cs</url>
+          <line>17</line>
+          <properties documentPath="$PROJECT_DIR$/PaymentDateCalculator.Api/Constraints/SalaryDateConstraint.cs" initialLine="13">
+            <startOffsets>
+              <startOffset value="724" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="725" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SalaryFindofEmployee/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1529318034575" expanded="false" signature="6:175" ph="..." />
+            <marker date="1529318034575" expanded="true" signature="207:8787" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="227:8785" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="299:6868" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="378:6857" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="450:811" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="884:1246" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="1319:1682" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="1755:2119" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="2191:2556" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="2628:2994" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="3066:3429" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="3501:3866" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="3938:4301" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="4373:4723" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="4795:5145" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="5217:5567" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="5639:5990" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="6062:6413" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="6485:6836" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="6910:8779" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="7113:8769" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="7468:7894" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/HashHolidays.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/IPaymentDateCalculator.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryFrequency.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryDateCalculationDto.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/HashHolidays.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryDateCalculationDto.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/IPaymentDateCalculator.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/HashHolidays.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/IPaymentDateCalculator.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryDateCalculationDto.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/HashHolidays.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryFrequency.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryDateCalculationDto.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/IPaymentDateCalculator.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/HashHolidays.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/IPaymentDateCalculator.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryFrequency.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryDateCalculationDto.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DEC642A8-5E85-44B9-842F-9C58FF597E1A/85/3114946c/DateTimeFormat.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryDateCalculation.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/HashHolidays.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/IPaymentDateCalculator.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryFrequency.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/SalaryDateCalculationDto.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Enums/SalaryFrequency.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.UnitTest/UnitTest1.cs" />
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Extensions/DateTimeExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Swashbuckle.Core/Controllers/HomeController.cs" />
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Swashbuckle/PaymentDateCalculator.Swashbuckle.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Interfaces/IPaymentDateCalculator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <marker date="1528955824000" expanded="false" signature="6:49" ph="..." />
+            <marker date="1528955824000" expanded="true" signature="93:396" ph="{...}" />
+            <marker date="1528955824000" expanded="true" signature="139:394" ph="{...}" />
+            <marker date="1528955824000" expanded="true" signature="154:295" ph="///  ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1528955671000" expanded="false" signature="6:255" ph="..." />
+            <marker date="1528955671000" expanded="true" signature="292:594" ph="{...}" />
+            <marker date="1528955671000" expanded="true" signature="319:592" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Models/SalaryDateCalculationDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1528876441000" expanded="true" signature="74:311" ph="{...}" />
+            <marker date="1528876441000" expanded="true" signature="119:309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="24" />
+          <folding>
+            <marker date="1529309347759" expanded="false" signature="6:128" ph="..." />
+            <marker date="1529309347759" expanded="true" signature="177:916" ph="{...}" />
+            <marker date="1529309347759" expanded="true" signature="317:914" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Constraints/SalaryDateConstraint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Core/DateTimeModelBinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <marker date="1529317219257" expanded="true" signature="6:116" ph="..." />
+            <marker date="1529317219257" expanded="true" signature="158:1953" ph="{...}" />
+            <marker date="1529317219257" expanded="true" signature="212:1413" ph="{...}" />
+            <marker date="1529317219257" expanded="true" signature="289:1407" ph="{...}" />
+            <marker date="1529317219257" expanded="true" signature="1076:1287" ph="{...}" />
+            <marker date="1529317219257" expanded="true" signature="1481:1951" ph="{...}" />
+            <marker date="1529317219257" expanded="true" signature="1561:1945" ph="{...}" />
+            <marker date="1529317219257" expanded="true" signature="1604:1698" ph="{...}" />
+            <marker date="1529317219257" expanded="true" signature="1831:1909" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Formats/SalaryFrequencyConvert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <marker date="1529315227258" expanded="true" signature="6:71" ph="..." />
+            <marker date="1529315227258" expanded="true" signature="112:1678" ph="{...}" />
+            <marker date="1529315227258" expanded="true" signature="170:1676" ph="{...}" />
+            <marker date="1529315227258" expanded="true" signature="275:1276" ph="{...}" />
+            <marker date="1529315227258" expanded="true" signature="382:1266" ph="{...}" />
+            <marker date="1529315227258" expanded="true" signature="1402:1571" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Formats/SalaryDateTimeConvert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <marker date="1529314597953" expanded="true" signature="74:259" ph="{...}" />
+            <marker date="1529314597953" expanded="true" signature="136:257" ph="{...}" />
+            <marker date="1529314597953" expanded="true" signature="194:251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.UnitTest/SalaryFindOfEmployeeTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="192" column="47" selection-start-line="192" selection-start-column="47" selection-end-line="192" selection-end-column="47" />
+          <folding>
+            <marker date="1529304900633" expanded="false" signature="6:169" ph="..." />
+            <marker date="1529304900633" expanded="true" signature="211:10022" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="266:9046" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="323:8898" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="397:905" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="481:878" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="970:1479" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="1054:1452" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="1544:2054" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="1628:2027" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="2119:2630" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="2203:2603" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="2695:3207" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="2779:3180" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="3272:3785" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="3356:3758" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="3850:4360" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="3934:4333" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="4425:4937" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="4509:4910" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="5002:5512" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="5086:5485" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="5577:6074" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="5661:6047" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="6139:6636" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="6223:6609" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="6701:7198" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="6785:7171" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="7263:7761" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="7347:7734" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="7826:8324" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="7910:8297" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="8389:8887" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="8473:8860" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="9083:10020" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="9154:10014" ph="{...}" />
+            <marker date="1529304900633" expanded="true" signature="9489:9899" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Models/SalaryDate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1529317884703" expanded="true" signature="6:108" ph="..." />
+            <marker date="1529317884703" expanded="true" signature="148:921" ph="{...}" />
+            <marker date="1529317884703" expanded="true" signature="178:431" ph="{...}" />
+            <marker date="1529317884703" expanded="true" signature="469:919" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <marker date="1529317754650" expanded="true" signature="6:344" ph="..." />
+            <marker date="1529317754650" expanded="true" signature="381:3908" ph="{...}" />
+            <marker date="1529317754650" expanded="true" signature="408:3906" ph="{...}" />
+            <marker date="1529317754650" expanded="true" signature="625:3357" ph="{...}" />
+            <marker date="1529317754650" expanded="true" signature="899:1446" ph="{...}" />
+            <marker date="1529317754650" expanded="true" signature="1547:3345" ph="{...}" />
+            <marker date="1529317754650" expanded="true" signature="1710:3151" ph="{...}" />
+            <marker date="1529317754650" expanded="true" signature="2282:2679" ph="{...}" />
+            <marker date="1529317754650" expanded="true" signature="2837:3091" ph="{...}" />
+            <marker date="1529317754650" expanded="true" signature="3545:3900" ph="{...}" />
+            <marker date="1529317754650" expanded="true" signature="3655:3861" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaymentDateCalculator.Api/Controllers/PaymentDateCalculatorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding>
+            <marker date="1529317754623" expanded="true" signature="6:154" ph="..." />
+            <marker date="1529317754623" expanded="true" signature="203:1368" ph="{...}" />
+            <marker date="1529317754623" expanded="true" signature="354:1366" ph="{...}" />
+            <marker date="1529317754623" expanded="true" signature="762:1360" ph="{...}" />
+            <marker date="1529317754623" expanded="true" signature="1045:1348" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Services/CalculationCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalaryDateofCustomers/Services/SalaryDateCalculation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+          <folding>
+            <marker date="1529310381454" expanded="false" signature="6:164" ph="..." />
+            <marker date="1529310381454" expanded="true" signature="206:2089" ph="{...}" />
+            <marker date="1529310381454" expanded="true" signature="272:1950" ph="{...}" />
+            <marker date="1529310381454" expanded="true" signature="326:422" ph="///  ... " />
+            <marker date="1529310381454" expanded="true" signature="524:716" ph="///  ... " />
+            <marker date="1529310381454" expanded="true" signature="795:1944" ph="{...}" />
+            <marker date="1529310381454" expanded="true" signature="878:1906" ph="{...}" />
+            <marker date="1529310381454" expanded="true" signature="2020:2087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalaryFindofEmployee/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="158" column="78" lean-forward="true" selection-start-line="158" selection-start-column="78" selection-end-line="158" selection-end-column="78" />
+          <folding>
+            <marker date="1529318034575" expanded="false" signature="6:175" ph="..." />
+            <marker date="1529318034575" expanded="true" signature="207:8787" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="227:8785" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="299:6868" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="378:6857" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="450:811" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="884:1246" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="1319:1682" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="1755:2119" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="2191:2556" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="2628:2994" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="3066:3429" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="3501:3866" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="3938:4301" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="4373:4723" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="4795:5145" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="5217:5567" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="5639:5990" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="6062:6413" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="6485:6836" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="6910:8779" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="7113:8769" ph="{...}" />
+            <marker date="1529318034575" expanded="true" signature="7468:7894" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
